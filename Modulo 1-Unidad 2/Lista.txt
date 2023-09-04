@@ -1,0 +1,8 @@
+Frutas
+Verduras
+Galletitas
+Manteca
+Leche
+Carne picada
+Pollo
+Bebidas
