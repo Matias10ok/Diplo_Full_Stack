@@ -31,7 +31,7 @@ fieldset {
 
 legend {
     background-color: #74b49b;
-    background: linear-gradient(to right, #74b49b, #14533b);
+    background: linear-gradient(40deg, #74b49b 0%, #14533b 80%);
     padding: 5px;
     border-radius: 25px;
     font-weight: 500;
