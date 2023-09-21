@@ -2,7 +2,7 @@
 
 body {
     background-color: #74b49b;
-    background: linear-gradient(90deg, #74b49b 0%, #14533b 50%);
+    background: linear-gradient(-195deg, #74b49b 0%, #14533b 45%);
     font-family: 'Poppins', sans-serif;
 }
 
@@ -17,6 +17,7 @@ div {
 h1 {
     text-transform: uppercase;
     box-shadow: 0 0 5px #74b49b;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.6);
 }
 
 i {
@@ -33,7 +34,7 @@ legend {
     background-color: #74b49b;
     background: linear-gradient(40deg, #74b49b 0%, #14533b 80%);
     padding: 5px;
-    border-radius: 25px;
+    border-radius: 30px 10px;
     font-weight: 500;
 }
 
