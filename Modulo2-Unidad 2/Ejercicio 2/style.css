@@ -1,0 +1,36 @@
+.flex-container {
+    margin: 88px auto;
+    width: 35%;
+    outline: 3px solid;
+    height: 450px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.flex-1 {
+    background-color: red;
+    color: #fff;
+    width: 170px;
+    height: 170px;
+    line-height: 170px;
+    text-align: center;
+}
+
+.flex-2 {
+    background-color: blue;
+    color: #fff;
+    width: 170px;
+    height: 170px;
+    line-height: 170px;
+    text-align: center;
+}
+
+.flex-3 {
+    background-color: green;
+    color: #fff;
+    width: 170px;
+    height: 170px;
+    line-height: 170px;
+    text-align: center;
+}
